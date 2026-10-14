@@ -24,7 +24,7 @@ For students, remote workers, offices, and anyone juggling several addresses, Bl
 
 ## Overview
 
-![BlueMail](https://avatars.mds.yandex.net/i?id=3abd95d014a6adc1e06f243608d93df8_l-9741114-images-thumbs&n=13)
+![BlueMail](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/4e/11/574e116c-1d24-9f41-8c49-7a2024937c19/icon.png/1200x630wa.jpg)
 
 BlueMail turns scattered mailboxes into one coherent workspace. With BlueMail multi-account and BlueMail unified inbox working together, users can read, sort, and reply across providers without switching tools. BlueMail calendar adds scheduling context, and BlueMail setup keeps first launch short so daily correspondence starts quickly.
 
